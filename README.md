@@ -2,7 +2,7 @@
 
 
 ![Rosmg's GitHub status](https://github-readme-stats.vercel.app/api?username=Rosmg&show_icons=true&theme=transparent)
-![Rosmg's GitHub status](https://github-readme-stats.vercel.app/top-langs/?username=Rosmg&show_icons=true&theme=transparent)
+![Rosmg's GitHub status](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosmg&show_icons=true&theme=transparent)
 <div style="display: inline_block"><br>
   
   <img align="center" alt="teste-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
