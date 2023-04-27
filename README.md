@@ -1,8 +1,8 @@
 ### Olá 👋
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Rosmg&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=c9d1d9&bg_color=0d1117" alt="Rodrigo Marcandier github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosmg&layout=compact&hide_border=true&title_color=4169E1&text_color=4169E1&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Rosmg&show_icons=true&count_private=true&hide_border=true&title_color=708090&icon_color=708090&text_color=c9d1d9&bg_color=0d1117" alt="Rodrigo Marcandier github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosmg&layout=compact&hide_border=true&title_color=708090&text_color=708090&bg_color=0d1117" />
 </div>
 
  <div align="center">  
@@ -22,4 +22,4 @@
   
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rosmg&bg_color=0d1117&color=4169E1&line=4169E1&point=4169E1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rosmg&bg_color=0d1117&color=708090&line=708090&point=708090&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
