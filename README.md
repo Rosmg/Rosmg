@@ -1,15 +1,17 @@
 <div style="margin-bottom:10px">
- ### Olá 👋
+ ### Olá, Desenvolvedor em formação👋
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Rosmg&show_icons=true&count_private=true&hide_border=true&title_color=708090&icon_color=708090&text_color=c9d1d9&bg_color=0d1117" alt="Rodrigo Marcandier github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosmg&layout=compact&hide_border=true&title_color=708090&text_color=708090&bg_color=0d1117" />
 </div></br>
-
+<p> Aprendendo
  <div align="center">  
-  <img align="center" alt="teste-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="R-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="R-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="R-PHP" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/320px-PHP-logo.svg.png">
+  <img align="center" alt="R-HTML" height="30"  src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="R-CSS" height="30"  src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="R-Python" height="30"  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="R-PHP" height="30"  src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+ <img align="center" alt="R-JS" height="30"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="R-MySql" height="30"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div></br>
   
   ##
