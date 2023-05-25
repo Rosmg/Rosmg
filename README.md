@@ -23,5 +23,5 @@
   <a href="https://www.linkedin.com/in/rodrigo-marcandier-06859098/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div></br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rosmg&bg_color=0d1117&color=708090&line=708090&point=708090&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rosmg&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
